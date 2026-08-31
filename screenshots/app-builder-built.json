@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Расписание ВВ-26",
+      "hasCanvas": false,
+      "bodyTextLen": 1136,
+      "bodyTextHash": "094d9b1b9e667ce079c18e867d5e6ff0ad67df14348f8772dbb0713be0e9aa8a",
+      "bodyTextPrefix": "ГБПОУ МО «ОДИНЦОВСКИЙ ТЕХНИКУМ» ВВ-26 Водоснабжение и водоотведе",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Расписание ВВ-26",
+      "hasCanvas": false,
+      "bodyTextLen": 627,
+      "bodyTextHash": "2bdf7be25b2d05de83d308820ab4c0e3710aecbc0723c4d589e079fc1e576ece",
+      "bodyTextPrefix": "ГБПОУ МО «ОДИНЦОВСКИЙ ТЕХНИКУМ» ВВ-26 Водоснабжение и водоотведе",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
